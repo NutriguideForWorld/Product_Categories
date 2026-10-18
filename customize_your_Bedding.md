@@ -2,11 +2,12 @@
 
 
 ### Materials and Tools Needed
+```text
 • Fabric Choice: Smooth bamboo fabric or high-thread-count sateen cotton (anti-static and slick surface so fur slides off easily).
 • Measuring Tape & Fabric Chalk
 • Scissors or Rotary Cutter
 • Sewing Machine & Matching Thread (or pins/safety pins if doing a no-sew or pocket-corner method).
-
+```
 
 ## 1. Step-by-Step Instructions to Make a Fitted No-Fur Bedsheet (Without Elastic)
 
@@ -27,6 +28,7 @@ Instead of a continuous rubber elastic band (which can wear out or trap fur), yo
 
 ## Questions to ask
 If you want to tailor this further, tell me:
+```text
 • What is the exact size of your mattress (length, width, and depth)?
 • Do you prefer a sewn fitted pocket or a flat sheet with corner tucks/straps?
-
+```
